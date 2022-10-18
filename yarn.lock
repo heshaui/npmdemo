@@ -5559,6 +5559,11 @@ mute-stream@0.0.8:
   resolved "https://registry.npmmirror.com/mute-stream/download/mute-stream-0.0.8.tgz#1630c42b2251ff81e2a283de96a5497ea92e5e0d"
   integrity sha1-FjDEKyJR/4HiooPelqVJfqkuXg0=
 
+my-wavesurfer-test@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/my-wavesurfer-test/-/my-wavesurfer-test-1.0.1.tgz#6c4e57a4bd01d173f4d714fb0d39b621cdc462da"
+  integrity sha512-sVjKf8gmzBm0rikcryfjte1ZYnqut+ud2vHypQ+SBZhH0qvswBP7vrksTO/AW6r2PyWeJOvn2d78QMlNVCNgvA==
+
 mz@^2.4.0:
   version "2.7.0"
   resolved "https://registry.npmmirror.com/mz/download/mz-2.7.0.tgz#95008057a56cafadc2bc63dde7f9ff6955948e32"
